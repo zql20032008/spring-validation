@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright (c) 2004-2025 All Rights Reserved.
  */
-package org.aliyun..common;
+package org.aliyun.common;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Getter;
