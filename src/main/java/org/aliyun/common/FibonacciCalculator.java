@@ -10,7 +10,7 @@ public class FibonacciCalculator {
             return 1;
         }
         
-        //注意这段bug
+        //注意这段 bug
         return calculateFibonacci(n - 1) + calculateFibonacci(n - 2);
     }
     
