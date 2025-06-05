@@ -10,7 +10,7 @@ public class FibonacciCalculator {
             return 1;
         }
         
-        // Bug 2: 没有处理整数溢出问题
+        
         return calculateFibonacci(n - 1) + calculateFibonacci(n - 2);
     }
     
