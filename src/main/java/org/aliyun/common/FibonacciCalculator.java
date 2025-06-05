@@ -1,3 +1,5 @@
+package org.aliyun.common;
+
 public class FibonacciCalculator {
     
     // 计算第n个斐波那契数的方法
