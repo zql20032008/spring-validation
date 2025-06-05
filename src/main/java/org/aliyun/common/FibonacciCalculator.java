@@ -2,7 +2,7 @@ package org.aliyun.common;
 
 public class FibonacciCalculator {
     
-    // 计算第n个斐波那契数的方法
+    // 计算第n个斐波那契数的方法,未判断n
     public static int calculateFibonacci(int n) {
         if (n <= 0) {
             return 0;  
